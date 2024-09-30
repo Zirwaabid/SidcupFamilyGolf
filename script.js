@@ -25,7 +25,7 @@ gsap.to("#main", {
     scrollTrigger: {
         triggar: "#main",
         scroller: "body",
-        markers: true,
+        // markers: true,
         start: "top -25%",
         end: "top -70%",
         scrub: 2
