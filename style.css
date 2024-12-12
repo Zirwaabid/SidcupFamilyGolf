@@ -480,3 +480,10 @@ video {
     line-height: 20px;
     margin-bottom: 8px;
 }
+
+#f2 h4{
+    padding-top: 1rem;
+    font-weight: 800;
+    font-style: italic;
+    color: #000;
+}
